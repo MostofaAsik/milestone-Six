@@ -1,0 +1,17 @@
+// regular Function
+
+function number(n) {
+    return n
+}
+/* 
+************Regular Function vs Arrow Function************ 
+//1. (n)>>regeular function Parameter
+//2.  n>>regular function body
+*/
+
+// arrow function
+const number = (n) => n;
+
+
+// function Called
+console.log(number(10))

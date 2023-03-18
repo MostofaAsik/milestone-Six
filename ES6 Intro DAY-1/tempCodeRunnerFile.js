@@ -1,0 +1,2 @@
+e.log(numbers)
+console
